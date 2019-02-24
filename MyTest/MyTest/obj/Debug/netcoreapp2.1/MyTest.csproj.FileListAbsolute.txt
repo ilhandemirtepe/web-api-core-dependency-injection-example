@@ -1,0 +1,14 @@
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\bin\Debug\netcoreapp2.1\MyTest.deps.json
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\bin\Debug\netcoreapp2.1\MyTest.runtimeconfig.json
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\bin\Debug\netcoreapp2.1\MyTest.runtimeconfig.dev.json
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\bin\Debug\netcoreapp2.1\MyTest.dll
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\bin\Debug\netcoreapp2.1\MyTest.pdb
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.csprojAssemblyReference.cache
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.RazorAssemblyInfo.cache
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.RazorAssemblyInfo.cs
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.AssemblyInfoInputs.cache
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.AssemblyInfo.cs
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.RazorTargetAssemblyInfo.cache
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.dll
+C:\Users\ilhan.demirtepe\source\repos\MyTest\MyTest\obj\Debug\netcoreapp2.1\MyTest.pdb
